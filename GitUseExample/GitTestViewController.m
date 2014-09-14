@@ -29,7 +29,7 @@
 
 - (IBAction)clickTheButton:(id)sender
 {
-    NSLog(@"This is a Git tutoriallß");
+    NSLog(@"This is a Git tutorial");
 }
 
 
