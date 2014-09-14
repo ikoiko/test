@@ -10,4 +10,6 @@
 
 @interface GitTestViewController : UIViewController
 
+-(IBAction)clickTheButton:(id)sender;
+
 @end
